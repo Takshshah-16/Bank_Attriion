@@ -1,5 +1,13 @@
 # 🏦 Bank Customer Attrition Prediction using Machine Learning
 
+## 📌 Project Highlights
+
+- 📊 10,127 customer records analyzed
+- 🤖 4 machine learning models evaluated
+- 🌲 Final Model: Hyperparameter-Tuned Random Forest
+- 🎯 Testing Accuracy: 95.31%
+- 💼 End-to-end business case study with actionable recommendations
+
 ## 📌 Project Overview
 
 Customer attrition is one of the biggest challenges faced by banks, as acquiring new customers is significantly more expensive than retaining existing ones. Predicting which customers are likely to leave enables financial institutions to implement proactive retention strategies, improve customer satisfaction, and reduce revenue loss.
